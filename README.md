@@ -2,7 +2,10 @@
 
 > /!\ The source image file will be destroyed during the shrinking process. Make a backup to keep it if necessary.
 
-First build the image
+First build the image:
+```
+docker build . -t rasp-img-shrinker
+```
 
 Run a container with following parameters
 ```
