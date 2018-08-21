@@ -1,4 +1,4 @@
-RaspPiImgShrinker
+# RaspPiImgShrinker
 
 > /!\ The source image file will be destroyed during the shrinking process. Make a backup to keep it if necessary.
 
